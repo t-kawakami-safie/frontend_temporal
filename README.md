@@ -1,3 +1,5 @@
+# ファイル構成
+```
 frontend/
 ├── src/
 │   └── app/
@@ -19,3 +21,4 @@ frontend/
 │       └── layout.tsx（置いているだけのlayout.tsx）
 └── xxx
 └── 
+```
